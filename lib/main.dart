@@ -1,5 +1,5 @@
-import 'package:disease_app/ui/resources/constants.dart';
-import 'package:disease_app/ui/views/home_screen.dart';
+import './ui/resources/constants.dart';
+import './ui/views/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

@@ -1,5 +1,5 @@
-import 'package:disease_app/ui/resources/constants.dart';
-import 'package:disease_app/ui/views/news_details_screen.dart';
+import '../resources/constants.dart';
+import 'package:disease_app/ui/views/news_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:nice_button/nice_button.dart';
 
